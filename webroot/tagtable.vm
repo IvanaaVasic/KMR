@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tVariableTable>
+    <variables>
+        <id>23cf9eaa-8343-4c29-844a-fb39867a30e6</id>
+        <name>variable1</name>
+        <blockType realvalue="129">I</blockType>
+        <blockNum realvalue="0">I1</blockNum>
+        <type realvalue="1">Bit</type>
+        <length realvalue="1">1</length>
+    </variables>
+    <variables>
+        <id>e98a944a-0d7e-4573-8348-991b2811d6eb</id>
+        <name>variable2</name>
+        <blockType realvalue="129">I</blockType>
+        <blockNum realvalue="1">I2</blockNum>
+        <type realvalue="1">Bit</type>
+        <length realvalue="1">1</length>
+    </variables>
+    <variables>
+        <id>265afcc8-f86f-410b-9b72-27a7ffda11f1</id>
+        <name>variable3</name>
+        <blockType realvalue="129">I</blockType>
+        <blockNum realvalue="2">I3</blockNum>
+        <type realvalue="1">Bit</type>
+        <length realvalue="1">1</length>
+    </variables>
+    <variables>
+        <id>68f800ce-fe25-4dbd-b0f7-25d4f862c178</id>
+        <name>variable4</name>
+        <blockType realvalue="129">I</blockType>
+        <blockNum realvalue="3">I4</blockNum>
+        <type realvalue="1">Bit</type>
+        <length realvalue="1">1</length>
+    </variables>
+    <variables>
+        <id>9dd420f2-c351-48a0-8356-842538acb62f</id>
+        <name>variable5</name>
+        <blockType realvalue="129">I</blockType>
+        <blockNum realvalue="4">I5</blockNum>
+        <type realvalue="1">Bit</type>
+        <length realvalue="1">1</length>
+    </variables>
+    <variables>
+        <id>a666817d-cab8-4cbc-b430-f2fe66ca0654</id>
+        <name>variable6</name>
+        <blockType realvalue="129">I</blockType>
+        <blockNum realvalue="5">I6</blockNum>
+        <type realvalue="1">Bit</type>
+        <length realvalue="1">1</length>
+    </variables>
+    <variables>
+        <id>719e8541-bfc9-467b-b8d2-5be30aa127f5</id>
+        <name>variable7</name>
+        <blockType realvalue="18">AI</blockType>
+        <blockNum realvalue="0">AI1</blockNum>
+        <type realvalue="4">Word</type>
+        <length realvalue="1">1</length>
+    </variables>
+    <variables>
+        <id>1ceb4b3b-a3f0-4942-b1f6-e9cdcc67f046</id>
+        <name>variable8</name>
+        <blockType realvalue="18">AI</blockType>
+        <blockNum realvalue="16">AI2</blockNum>
+        <type realvalue="4">Word</type>
+        <length realvalue="1">1</length>
+    </variables>
+    <variables>
+        <id>4b30dddf-8842-4499-9064-1c4e287ff84b</id>
+        <name>variable9</name>
+        <blockType realvalue="130">Q</blockType>
+        <blockNum realvalue="0">Q1</blockNum>
+        <type realvalue="1">Bit</type>
+        <length realvalue="1">1</length>
+    </variables>
+    <variables>
+        <id>60055822-b1e8-4eba-b724-66b08171c84d</id>
+        <name>variable10</name>
+        <blockType realvalue="130">Q</blockType>
+        <blockNum realvalue="1">Q2</blockNum>
+        <type realvalue="1">Bit</type>
+        <length realvalue="1">1</length>
+    </variables>
+    <variables>
+        <id>c3d9127b-1af9-47dd-9baf-beec546e3bf2</id>
+        <name>variable11</name>
+        <blockType realvalue="130">Q</blockType>
+        <blockNum realvalue="2">Q3</blockNum>
+        <type realvalue="1">Bit</type>
+        <length realvalue="1">1</length>
+    </variables>
+    <variables>
+        <id>e939bcad-e2fb-4113-ac05-32c35a6282eb</id>
+        <name>variable12</name>
+        <blockType realvalue="130">Q</blockType>
+        <blockNum realvalue="3">Q4</blockNum>
+        <type realvalue="1">Bit</type>
+        <length realvalue="1">1</length>
+    </variables>
+</tVariableTable>
